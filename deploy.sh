@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="sanjai4334/docker"
+IMAGE_NAME="mailtoneelesh/docker"
 TAG="latest"
 CONTAINER_NAME="my-container"
 
