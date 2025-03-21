@@ -1,6 +1,6 @@
-Configuring Node port :
+Configuring Node port 
 
-service.yaml 
+service.yaml : 
 
 apiVersion: v1
 kind: Service
@@ -16,3 +16,4 @@ spec:
       port: 80       # Service port inside the cluster
       targetPort: 80  # The container's port
       nodePort: 30391   # Externally accessible port
+
