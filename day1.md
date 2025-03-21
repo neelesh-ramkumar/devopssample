@@ -22,3 +22,4 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 ![Screenshot from 2025-03-20 09-59-45](https://github.com/user-attachments/assets/f858773e-0c63-4a33-a4d6-60a99e1ab549)
 
+
